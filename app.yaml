@@ -1,0 +1,7 @@
+runtime: python38
+
+handlers:
+  # Serve all static files with urls ending with a file extension
+- url: /static/(.*\..+)$ 
+  static_files: portfolio-app/dist/\1
+  upload: portfolio-app/dist/(.*\..+)$
