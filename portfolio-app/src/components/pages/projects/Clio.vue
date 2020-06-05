@@ -13,6 +13,9 @@ export default {
       project
     }
   },
+  created () {
+    document.title = `David Wingfield's Portfolio - Clio`
+  },
   components: {
     ProjectPage
   }

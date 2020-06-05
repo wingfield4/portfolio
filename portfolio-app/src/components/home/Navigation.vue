@@ -1,7 +1,7 @@
 <template>
   <div id="navigation-container" class="static-container">
     <div id="navigation-container" :class="containerClass">
-      <div class="content-container">
+      <nav class="content-container">
         <a href="#about-me" class="nav-link">
           ABOUT ME
         </a>
@@ -11,7 +11,7 @@
         <a href="#contact" class="nav-link">
           CONTACT
         </a>
-      </div>
+      </nav>
     </div>
   </div>
 </template>

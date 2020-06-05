@@ -12,6 +12,9 @@ export default {
       project
     }
   },
+  created () {
+    document.title = `David Wingfield's Portfolio - MH Data Warehouse`
+  },
   components: {
     ProjectPage
   }
