@@ -43,9 +43,10 @@
           </span>
           <div class="divider small-divider" />
           <div class="card-container">
+            <TechnologyCard iconName="angular" label="Angular" link="https://angular.io/" />
             <TechnologyCard iconName="language-python" label="Python" link="https://www.python.org/" />
             <TechnologyCard iconName="language-java" label="Java" link="https://www.java.com/en/" />
-            <TechnologyCard iconName="angular" label="Angular" link="https://angular.io/" />
+            <TechnologyCard iconName="language-cpp" label="C++" link="https://www.cplusplus.com/" />
           </div>
         </div>
         <div class="right-container">

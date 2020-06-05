@@ -15,7 +15,8 @@ export default [
       'nodejs',
       'react',
       'database',
-      'google-cloud'
+      'google-cloud',
+      'cellphone'
     ]
   },
   {
@@ -46,6 +47,7 @@ export default [
     description: 'An *unofficial* companion app for Easy Allies content.',
     internalURL: '/projects/easy-allies',
     icons: [
+      'cellphone',
       'react',
       'database',
       'nodejs',
@@ -71,6 +73,7 @@ export default [
     description: 'An interactive experience for use at Heritage Farm Museum & Village.',
     internalURL: '/projects/heritage-quest',
     icons: [
+      'cellphone',
       'react',
       'database'
     ]
